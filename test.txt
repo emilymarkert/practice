@@ -1,4 +1,8 @@
 Hello World!
 hi friends
 new
+<<<<<<< HEAD
 new from file please work
+=======
+new from site
+>>>>>>> 20fd30dd0951b0a2736fc643dbd409a72f964b04
